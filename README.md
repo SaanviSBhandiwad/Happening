@@ -37,12 +37,12 @@ Follow these steps to run the game locally:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/likhitha1113/hAPPen-ing.git
+git clone https://github.com/SaanviSBhandiwad/Happening.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd hAPPen-ing/likhitha1113
+cd Happening/SaanviSBhandiwad
 ```
 
 3. Install dependencies:
